@@ -21,11 +21,11 @@
         "psr-4": {
             "Chine\\UniformResponse\\": "src/"
         },
-        "autoload-dev": {
-            "psr-4": {
-                "Tests\\": "tests/"
-            }
-        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        },
     },
     "minimum-stability": "dev",
     "extra": {
