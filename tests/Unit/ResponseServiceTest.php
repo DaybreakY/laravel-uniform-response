@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests\Unit;
+namespace Chine\Tests\Unit;
 
 use Chine\UniformResponse\Enums\ErrorCode;
 use Chine\UniformResponse\ResponseService;

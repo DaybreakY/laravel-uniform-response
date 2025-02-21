@@ -20,12 +20,12 @@
     "autoload": {
         "psr-4": {
             "Chine\\UniformResponse\\": "src/"
-        },
+        }
     },
     "autoload-dev": {
         "psr-4": {
-            "Tests\\": "tests/"
-        },
+            "Chine\\Tests\\": "tests/"
+        }
     },
     "minimum-stability": "dev",
     "extra": {
